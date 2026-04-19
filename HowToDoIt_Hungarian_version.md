@@ -7,7 +7,7 @@
 További linkek:            
 [Spring MVC Beginner](https://www.youtube.com/watch?v=VqptK6_icjk&list=PL82C6-O4XrHejlASdecIsroNEbZFYo_X1)         
 
-[Saját webfejlesztői alapismeretekről szóló blogom](https://blog-sqj1.onrender.com/)         
+[Saját webfejlesztői alapismeretekről szóló blogom]([https://blog-sqj1.onrender.com/](https://nagraggini.github.io/my-awesome-book/))         
 
 [Fejlesztői környezet és kiegészítők letöltése](https://code.visualstudio.com/docs/java/java-spring-boot)         
 
